@@ -1,1 +1,4 @@
-tête {display:none}
+tête {
+    display:none;
+    overflow:hidden;
+}
